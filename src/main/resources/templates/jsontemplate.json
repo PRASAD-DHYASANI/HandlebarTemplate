@@ -1,0 +1,8 @@
+{{#each Cards}}{{#if @first}}{
+  "BankCards":[{{/if}}{
+    "BankerName":"{{../Banker.Name}}",
+    "CustomerName":"{{{Name}}}" ,
+    "Credit":{{Balance.Credit}},
+    "Balance":{{Balance.Debit}}
+  }{{#unless @last}},{{/unless}}
+{{/each}}]}

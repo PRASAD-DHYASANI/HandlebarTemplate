@@ -1,0 +1,46 @@
+{
+  "Cards": [
+    {
+      "id": 3201,
+      "Name": "Nick",
+      "Balance": {
+        "Debit": 31.24,
+        "Credit": 2000.00
+      }
+    },
+    {
+      "id": 6676,
+      "Name": "Emma",
+      "Balance": {
+        "Debit": 850.43,
+        "Credit": 406.05
+      }
+    },
+    {
+      "Name": "Victor",
+      "Balance": {
+        "Debit": 4065.12,
+        "Credit": 2500.05
+      }
+    },
+    {
+      "id": 9053,
+      "Name": "Emilia",
+      "Balance": {
+        "Debit": 745.30,
+        "Credit": 1500.00
+      }
+    },
+    {
+      "id": 6492,
+      "Name": "Ralph",
+      "Balance": {
+        "Debit": 2040.14,
+        "Credit": 400.00
+      }
+    }
+  ],
+  "Banker": {
+    "Name": "Patrick Bateman"
+  }
+}
